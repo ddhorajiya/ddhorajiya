@@ -1,16 +1,9 @@
-### Deep Dhorajiya
+<h1 align="center">Hi 👋, I'm Deep Dhorajiya</h1>
+<h3 align="center">Software Engineer</h3>
 
-<!--
-**ddhorajiya/ddhorajiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on git.
-- 🌱 I’m currently learning computer science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
