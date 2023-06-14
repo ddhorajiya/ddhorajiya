@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Deep Dhorajiya</h1>
-<h3 align="center">Software Engineer | Computer Science at San Francisco State University</h3>
+<h3 align="center">Software Development Intern @GAOTek Inc. | Computer Science at San Francisco State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddhorajiya&label=Profile%20views&color=0e75b6&style=flat" alt="ddhorajiya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddhorajiya" alt="ddhorajiya" /></a> </p>
 
+- 📫 How to reach me **deepdhorajiya2@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/deep dhorajiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep dhorajiya" height="30" width="40" /></a>
+<a href="https://twitter.com/dhorajiyadeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhorajiyadeep" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/deep-dhorajiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deep-dhorajiya" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/deepdhorajiya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepdhorajiya2" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ddhorajiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ddhorajiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
