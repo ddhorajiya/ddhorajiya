@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddhorajiya" alt="ddhorajiya" /></a> </p>
 
 - 🔭 I’m currently working as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
+- I am a passionate Computer Science student seeking a software engineer internship. With a solid foundation in programming languages and data structures, I am constantly exploring new technologies and designing software applications. I am highly skilled in problem-solving, and I enjoy working collaboratively in a team environment. My strong customer service skills allow me to communicate effectively with clients and stakeholders. My goal is to develop my skills and knowledge as a software engineer, and ultimately build innovative solutions that make a difference.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
