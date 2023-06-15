@@ -3,15 +3,17 @@
 
 - I’m currently working as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
 - Computer Science student with a passion for software development and innovative solutions.
+- Software Engineer with a passion for crafting innovative solutions and leveraging cutting-edge technologies.
+- Skilled in full-stack development, specializing in Java, Python, and JavaScript.
+- Experience in designing and implementing scalable web applications and optimizing their performance.
 - Experienced in building web applications using technologies like React.js, Node.js, and MySQL.
-- Strong background in programming languages such as Java, Python, and JavaScript.
-- Skilled in implementing efficient algorithms and data structures for optimal performance.
-- Demonstrated ability to collaborate with cross-functional teams and deliver successful projects.
-- Teaching Assistant with a track record of improving student engagement and performance.
-- Constantly learning and exploring new frameworks and technologies to stay at the forefront of the industry.
-- Enthusiastic about front-end development and creating intuitive user experiences.
-- Published articles on technology topics, sharing insights and knowledge with the community.
-- Fluent in English, Hindi, and Gujarati, enabling effective communication with diverse audiences.
+- Strong understanding of software development principles, algorithms, and data structures.
+- Dedicated to delivering high-quality code through thorough testing and code reviews.
+- Collaborative team player, adept at working in Agile environments and cross-functional teams.
+- Proven track record of successfully completing projects on time and exceeding client expectations.
+- Excellent problem-solving skills with a keen eye for detail and a drive for continuous improvement.
+- Effective communicator, able to translate complex technical concepts into user-friendly language.
+- Committed to staying up-to-date with industry trends and continuously expanding knowledge and skills in software engineering.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
