@@ -5,8 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddhorajiya" alt="ddhorajiya" /></a> </p>
 
-- 🔭 I’m currently working as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
-- I am a passionate Computer Science student seeking a software engineer internship. With a solid foundation in programming languages and data structures, I am constantly exploring new technologies and designing software applications. I am highly skilled in problem-solving, and I enjoy working collaboratively in a team environment. My strong customer service skills allow me to communicate effectively with clients and stakeholders. My goal is to develop my skills and knowledge as a software engineer, and ultimately build innovative solutions that make a difference.
+- I’m currently working as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
+- Computer Science student with a passion for software development and innovative solutions.
+- Experienced in building web applications using technologies like React.js, Node.js, and MySQL.
+- Strong background in programming languages such as Java, Python, and JavaScript.
+- Skilled in implementing efficient algorithms and data structures for optimal performance.
+- Demonstrated ability to collaborate with cross-functional teams and deliver successful projects.
+- Teaching Assistant with a track record of improving student engagement and performance.
+- Constantly learning and exploring new frameworks and technologies to stay at the forefront of the industry.
+- Enthusiastic about front-end development and creating intuitive user experiences.
+- Published articles on technology topics, sharing insights and knowledge with the community.
+- Fluent in English, Hindi, and Gujarati, enabling effective communication with diverse audiences.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
