@@ -3,7 +3,6 @@
 
 - I’m currently working as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
 - Computer Science student with a passion for software development and innovative solutions.
-- Software Engineer with a passion for crafting innovative solutions and leveraging cutting-edge technologies.
 - Skilled in full-stack development, specializing in Java, Python, and JavaScript.
 - Experience in designing and implementing scalable web applications and optimizing their performance.
 - Experienced in building web applications using technologies like React.js, Node.js, and MySQL.
