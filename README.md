@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Deep Dhorajiya</h1>
-<h3 align="center">Software Development Intern @GAOTek Inc. | Computer Science at San Francisco State University</h3>
+<h3 align="center"> Computer Science at San Francisco State University</h3>
 
-- I’m currently working as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
 - Computer Science student with a passion for software development and innovative solutions.
+- - I have worked as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
 - Skilled in full-stack development, specializing in Java, Python, and JavaScript.
 - Experience in designing and implementing scalable web applications and optimizing their performance.
 - Experienced in building web applications using technologies like React.js, Node.js, and MySQL.
