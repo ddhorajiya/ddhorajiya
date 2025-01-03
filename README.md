@@ -2,7 +2,7 @@
 <h3 align="center"> Computer Science at San Francisco State University</h3>
 
 - Computer Science student with a passion for software development and innovative solutions.
-- I have worked as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
+- I have worked as a Full-Stack Developer Intern at Think Round, Inc. and as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
 - Skilled in full-stack development, specializing in Java, Python, and JavaScript.
 - Experience in designing and implementing scalable web applications and optimizing their performance.
 - Experienced in building web applications using technologies like React.js, Node.js, and MySQL.
