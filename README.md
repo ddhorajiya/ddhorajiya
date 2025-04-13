@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Deep Dhorajiya</h1>
-<h3 align="center"> Computer Science at San Francisco State University</h3>
+<h3 align="center"> Software Developer at Wholesale Payments</h3>
 
 - Computer Science student with a passion for software development and innovative solutions.
 - I have worked as a Full-Stack Developer Intern at Think Round, Inc. and as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
