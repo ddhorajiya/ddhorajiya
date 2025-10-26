@@ -1,18 +1,13 @@
 <h1 align="center">Hi👋, I'm Deep Dhorajiya</h1>
-<h3 align="center"> Software Developer at Wholesale Payments</h3>
+<h3 align="center"> Software Developer | Full-Stack Engineer | Cloud & Backend Systems</h3>
 
-- Computer Science student with a passion for software development and innovative solutions.
-- I have worked as a Full-Stack Developer Intern at Think Round, Inc. and as [Software Developer Intern at GAOTek Inc.](https://gaotek.com/)
-- Skilled in full-stack development, specializing in Java, Python, and JavaScript.
-- Experience in designing and implementing scalable web applications and optimizing their performance.
-- Experienced in building web applications using technologies like React.js, Node.js, and MySQL.
-- Strong understanding of software development principles, algorithms, and data structures.
-- Dedicated to delivering high-quality code through thorough testing and code reviews.
-- Collaborative team player, adept at working in Agile environments and cross-functional teams.
-- Proven track record of successfully completing projects on time and exceeding client expectations.
-- Excellent problem-solving skills with a keen eye for detail and a drive for continuous improvement.
-- Effective communicator, able to translate complex technical concepts into user-friendly language.
-- Committed to staying up-to-date with industry trends and continuously expanding knowledge and skills in software engineering.
+Software Engineer at Wholesale Payments, building scalable backend services and high-performance Android POS applications. Experienced in full-stack development with a focus on Java, Python, JavaScript, and cloud platforms like AWS and Azure.
+
+Previously a Full-Stack Developer Intern at Think Round, Inc. and Software Developer Intern at GAOTek Inc., delivering production-ready solutions and optimizing web application performance. Skilled in React.js, Node.js, Spring Boot, Next.js, MongoDB, MySQL, and RESTful APIs.
+
+Passionate about designing scalable, efficient, and user-friendly software, with a proven record of improving system reliability, user engagement, and feature delivery speed. Adept at working in Agile teams, collaborating cross-functionally, and delivering projects on time with measurable impact.
+
+Constantly learning and exploring emerging technologies, network analysis, cloud-native applications, and innovative software solutions.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
