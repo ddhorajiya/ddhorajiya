@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Deep Dhorajiya</h1>
-<h3 align="center"> Software Developer | Full-Stack Engineer | Cloud & Backend Systems</h3>
+<h3 align="center"> Software Engineer | Cloud & Backend Systems</h3>
 
 Software Engineer at Wholesale Payments, building scalable backend services and high-performance Android POS applications. Experienced in full-stack development with a focus on Java, Python, JavaScript, and cloud platforms like AWS and Azure.
 
