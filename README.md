@@ -3,7 +3,7 @@
 
 Software Engineer at Wholesale Payments, building scalable backend services and high-performance Android POS applications. Experienced in full-stack development with a focus on Java, Python, JavaScript, and cloud platforms like AWS and Azure.
 
-Previously a Full-Stack Developer Intern at Think Round, Inc. and Software Developer Intern at GAOTek Inc., delivering production-ready solutions and optimizing web application performance. Skilled in React.js, Node.js, Spring Boot, Next.js, MongoDB, MySQL, and RESTful APIs.
+Previously a Full-Stack Developer at Think Round, Inc. and Software Developer Intern at GAOTek Inc., delivering production-ready solutions and optimizing web application performance. Skilled in React.js, Node.js, Spring Boot, Next.js, MongoDB, MySQL, and RESTful APIs.
 
 Passionate about designing scalable, efficient, and user-friendly software, with a proven record of improving system reliability, user engagement, and feature delivery speed. Adept at working in Agile teams, collaborating cross-functionally, and delivering projects on time with measurable impact.
 
